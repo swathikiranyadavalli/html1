@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1><bold>HAPPY RAKSHA BANDHAN</bold></h1>
+<p><i> you have always been my best friend holding my hand,making sure the road I travelled on was free of obstacles.These cannot be a better sister/brother than you in this whole world.Wishing you the best in life always</i></p>
+
+<ul style="list-style-type:disc;">
+<li>This festival is celebrated in mostly in August</li>
+<li>This festival is celebrated by whole india people irrespective of castes and religion</li> 
+</ul>
+<img src="https://media.istockphoto.com/photos/indian-festival-raksha-bandhan-with-rakhi-bracelets-presents-rice-and-picture-id1257015025"alt="Happy Raksha Bandhan"width="600"height="400">
+
+</body>
+</html>
+
